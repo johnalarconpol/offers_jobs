@@ -96,7 +96,8 @@ Ejecutar en jupyter notebook.
 ![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image2.png)
 ![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image3.png)
 
-![m]https://github.com/johnalarconpol/offers_jobs/blob/main/images/image.png
+![m](https://github.com/johnalarconpol/offers_jobs/blob/main/images/image.png)
+
 
 
 
