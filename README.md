@@ -66,7 +66,7 @@ Incluso podemos observar las habilidades requeridas según el cargo o los puesto
 
 ![EDA](README_files/image1.png)
 
-![EDA](README_files/image3.png)
+![EDA](README_files/image2.png)
 
 ## 🚀 Cómo ejecutar el proyecto
 
@@ -85,7 +85,7 @@ Ejecutar notebooks
 
 ### Recomendaciones
 
-Ejecutar en jupyter notebook
+Ejecutar en jupyter notebook.
 
 
-![EDA](README_files/image4.png)
+![EDA](README_files/image3.png)
