@@ -60,13 +60,13 @@ Se puede observar el mercado de los "analistas" de una manera general, clara y u
 
 Por ejemplo, en la siguiente vista se puede observar dónde y cantidad de ofertas de analista. 
 
-![image.png](image.png)
+![EDA](README_files/image.png)
 
 Incluso podemos observar las habilidades requeridas según el cargo o los puesto aproximado
 
-![image.png](image.png)
+![EDA](README_files/image1.png)
 
-![image.png](image.png)
+![EDA](README_files/image3.png)
 
 ## 🚀 Cómo ejecutar el proyecto
 
@@ -88,4 +88,4 @@ Ejecutar notebooks
 Ejecutar en jupyter notebook
 
 
- ![image.png](image.png)
+![EDA](README_files/image4.png)
