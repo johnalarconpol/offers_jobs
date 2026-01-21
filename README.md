@@ -60,19 +60,20 @@ Se puede observar el mercado de los "analistas" de una manera general, clara y u
 
 Por ejemplo, en la siguiente vista se puede observar dónde y cantidad de ofertas de analista. 
 
-![EDA](README_files/image.png)
+![EDA](README_files/image.png?raw=true)
+
 
 Incluso podemos observar las habilidades requeridas según el cargo o los puesto aproximado
 
-![EDA](README_files/image1.png)
+![EDA](README_files/image1.png?raw=true)
 
-![EDA](README_files/image2.png)
+!![EDA](README_files/image2.png?raw=true)
 
 ## 🚀 Cómo ejecutar el proyecto
 
 ### Clonar repositorio
 
-git clone https://github.com/johnalarconpol/project_offers_jobs.git
+git clone https://github.com/johnalarconpol/offers_jobs.git
 
 Crear entorno virtual e instalar dependencias:
 
@@ -88,4 +89,5 @@ Ejecutar notebooks
 Ejecutar en jupyter notebook.
 
 
-![EDA](README_files/image3.png)
+![EDA](README_files/image3.png?raw=true)
+
