@@ -1,0 +1,14 @@
+# Ignorar archivos grandes
+data/Municipios.json
+Notebooks/EDA.ipynb
+
+# Otros comunes
+__pycache__/
+.ipynb_checkpoints/
+.env/
+*.log
+*.tmp
+*.csv
+*.xlsx
+*.ods
+
