@@ -60,7 +60,7 @@ Se puede observar el mercado de los "analistas" de una manera general, clara y u
 
 Por ejemplo, en la siguiente vista se puede observar dónde y cantidad de ofertas de analista. 
 
-![EDA](images/image.png)
+![EDA](https://i.postimg.cc/50g9zFNg/image.png)
 
 Incluso podemos observar las habilidades requeridas según el cargo o los puesto aproximado
 
