@@ -90,5 +90,13 @@ Ejecutar en jupyter notebook.
 
 
 ![EDA](images/image3.png)
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image.png)
+
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image1.png)
+
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image2.png)
+
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image3.png)
+
 
 
