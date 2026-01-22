@@ -8,7 +8,7 @@ La información obtenida permitira observar la oferta en el mercado de analistas
 
 ### 🧱 Estructura del proyecto
 
-```text
+
 📁 proyect_offers_jobs
 │
 ├── 📁 data
