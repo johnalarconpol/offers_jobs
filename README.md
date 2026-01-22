@@ -88,13 +88,6 @@ Ejecutar notebooks
 
 Ejecutar en jupyter notebook.
 
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image.png)
 
-![EDA](images/image3.png)
 
-![EDA](images/image.png)
-
-![EDA](images/image1.png)
-
-![EDA](images/image2.png)
-
-![EDA](images/image3.png)
