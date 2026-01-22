@@ -1,6 +1,10 @@
-# Ignorar archivos grandes
-data/Municipios.json
-Notebooks/EDA.ipynb
+# Ignorar CSV y JSON en general
+*.csv
+*.json
+
+# PERMITIR los datasets del proyecto
+!data/*.csv
+!data/*.json
 
 # Otros comunes
 __pycache__/
@@ -8,7 +12,6 @@ __pycache__/
 .env/
 *.log
 *.tmp
-*.csv
 *.xlsx
 *.ods
 
