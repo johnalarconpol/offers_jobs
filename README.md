@@ -101,4 +101,6 @@ Ejecutar en jupyter notebook.
 
 
 
+<img width="634" height="607" alt="image" src="https://github.com/user-attachments/assets/6345b239-259d-41d7-926a-4e3fdf0d7721" />
+
 
