@@ -9,21 +9,27 @@ La información obtenida permitira observar la oferta en el mercado de analistas
 ## 🧱 Estructura del proyecto
 
 ```text
-project_offers_jobs/
-├── data/
-│   ├── ofertas_computrabajo.csv
-│   ├── clean_offers.csv
-│   └── Municipios.json
-├── images/
-│   ├── image.png
-│   ├── image1.png
-│   └── image2.png
-├── notebooks/
-│   ├── EDA.ipynb
-│   └── README.ipynb
-├── src/
-│   └── requirements.txt
-└── README.md
+📁 proyect_offers_jobs
+│
+├── 📁 data                          # (no se sube al git, para ahorrar espacio)
+│   ├── ofertas_computrabajo.csv/    # Datos crudos obtenidos del scraping
+│   ├── clean_offers.csv/            # Datos limpios y transformados
+│   ├── Municipios.json/             # Datos externos
+│   └── conteo_ciudades.csv/         # Datos externos
+├──  📁 images                      # imagenes usadas para el README
+├── 📁 src
+│   └──📄 requirements.txt           #librerias usadas
+├── 📁 notebooks
+│   ├── 01_scraping_computrabajo.ipynb      # Scrapping
+│   ├── 02_cleaning.ipynb                   # Limpieza de datos y transformados
+│   ├── 03_modelo_rf.ipynb                  # Modelo Random forest
+│   ├── EDA.ipynb                           # Análisis de datos exploratorios
+│   └── README2.ipynb                       # Resúmen más profundo + explicación del modelo rf
+│
+├── 📄 .README                              # Resúmen del proyecto 
+├── 📄 .gitattributes
+└── 📄 .gitignore
+
 ```
 ### Análisis del proyecto
 
