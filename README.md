@@ -11,7 +11,7 @@ La información obtenida permitira observar la oferta en el mercado de analistas
 ```text
 📁 proyect_offers_jobs
 │
-├── 📁 data                          # (no se sube al git, para ahorrar espacio)
+├── 📁 data                          
 │   ├── ofertas_computrabajo.csv/    # Datos crudos obtenidos del scraping
 │   ├── clean_offers.csv/            # Datos limpios y transformados
 │   ├── Municipios.json/             # Datos externos
