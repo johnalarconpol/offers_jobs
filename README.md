@@ -60,14 +60,13 @@ Se puede observar el mercado de los "analistas" de una manera general, clara y u
 
 Por ejemplo, en la siguiente vista se puede observar dónde y cantidad de ofertas de analista. 
 
-![EDA](https://i.postimg.cc/50g9zFNg/image.png)
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image.png)
 
 Incluso podemos observar las habilidades requeridas según el cargo o los puesto aproximado
 
-![EDA](images/image1.png)
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image1.png)
 
-![EDA](images/image2.png)
-
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image2.png)
 
 ## 🚀 Cómo ejecutar el proyecto
 
@@ -88,6 +87,5 @@ Ejecutar notebooks
 
 Ejecutar en jupyter notebook.
 
-![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image.png)
-
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image3.png)
 
