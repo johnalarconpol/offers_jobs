@@ -6,29 +6,31 @@ Este proyecto busca clasificar y analizar la información de las  ofertas labora
 
 La información obtenida permitira observar la oferta en el mercado de analistas de datos, cuáles son las habilidades que las empresas buscan en el puesto.
 
-### 🧱 Estructura del proyecto
+## 🧱 Estructura del proyecto
 
 ```text
 📁 proyect_offers_jobs
 │
-├── 📁 data
+├── 📁 data                          # (no se sube al git, para ahorrar espacio)
 │   ├── ofertas_computrabajo.csv/    # Datos crudos obtenidos del scraping
 │   ├── clean_offers.csv/            # Datos limpios y transformados
 │   ├── Municipios.json/             # Datos externos
 │   └── conteo_ciudades.csv/         # Datos externos
+├──  📁 images                      # imagenes usadas para el README
 ├── 📁 src
-│   └──📄 requirements.txt
+│   └──📄 requirements.txt           #librerias usadas
 ├── 📁 notebooks
 │   ├── 01_scraping_computrabajo.ipynb      # Scrapping
 │   ├── 02_cleaning.ipynb                   # Limpieza de datos y transformados
 │   ├── 03_modelo_rf.ipynb                  # Modelo Random forest
 │   ├── EDA.ipynb                           # Análisis de datos exploratorios
-│   ├── README.ipynb                        # Resúmen del proyecto
 │   └── README2.ipynb                       # Resúmen más profundo + explicación del modelo rf
 │
+├── 📄 .README                              # Resúmen del proyecto 
 ├── 📄 .gitattributes
 └── 📄 .gitignore
 
+```
 ### Análisis del proyecto
 
 Mediante herramientas como web scrapping, manejo de expresiones regulares, lematización y un modelo simple de ML se construyó una BBDD que permita un análisis descriptivo sobre el mercado de analistas en Colombia (de las ofertas publicadas en computrabajo
@@ -60,14 +62,13 @@ Se puede observar el mercado de los "analistas" de una manera general, clara y u
 
 Por ejemplo, en la siguiente vista se puede observar dónde y cantidad de ofertas de analista. 
 
-![EDA](https://i.postimg.cc/50g9zFNg/image.png)
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image.png)
 
 Incluso podemos observar las habilidades requeridas según el cargo o los puesto aproximado
 
-![EDA](images/image1.png)
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image1.png)
 
-![EDA](images/image2.png)
-
+![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image2.png)
 
 ## 🚀 Cómo ejecutar el proyecto
 
@@ -88,19 +89,8 @@ Ejecutar notebooks
 
 Ejecutar en jupyter notebook.
 
-
-![EDA](images/image3.png)
-
-![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image.png)
-![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image1.png)
-![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image2.png)
 ![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image3.png)
 
-![m](https://github.com/johnalarconpol/offers_jobs/blob/main/images/image.png)
 
-
-
-
-<img width="634" height="607" alt="image" src="https://github.com/user-attachments/assets/6345b239-259d-41d7-926a-4e3fdf0d7721" />
 
 
