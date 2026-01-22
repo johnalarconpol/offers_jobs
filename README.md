@@ -6,29 +6,25 @@ Este proyecto busca clasificar y analizar la información de las  ofertas labora
 
 La información obtenida permitira observar la oferta en el mercado de analistas de datos, cuáles son las habilidades que las empresas buscan en el puesto.
 
-### 🧱 Estructura del proyecto
+## 🧱 Estructura del proyecto
 
-
-📁 proyect_offers_jobs
-│
-├── 📁 data
-│   ├── ofertas_computrabajo.csv/    # Datos crudos obtenidos del scraping
-│   ├── clean_offers.csv/            # Datos limpios y transformados
-│   ├── Municipios.json/             # Datos externos
-│   └── conteo_ciudades.csv/         # Datos externos
-├── 📁 src
-│   └──📄 requirements.txt
-├── 📁 notebooks
-│   ├── 01_scraping_computrabajo.ipynb      # Scrapping
-│   ├── 02_cleaning.ipynb                   # Limpieza de datos y transformados
-│   ├── 03_modelo_rf.ipynb                  # Modelo Random forest
-│   ├── EDA.ipynb                           # Análisis de datos exploratorios
-│   ├── README.ipynb                        # Resúmen del proyecto
-│   └── README2.ipynb                       # Resúmen más profundo + explicación del modelo rf
-│
-├── 📄 .gitattributes
-└── 📄 .gitignore
-
+```text
+project_offers_jobs/
+├── data/
+│   ├── ofertas_computrabajo.csv
+│   ├── clean_offers.csv
+│   └── Municipios.json
+├── images/
+│   ├── image.png
+│   ├── image1.png
+│   └── image2.png
+├── notebooks/
+│   ├── EDA.ipynb
+│   └── README.ipynb
+├── src/
+│   └── requirements.txt
+└── README.md
+```
 ### Análisis del proyecto
 
 Mediante herramientas como web scrapping, manejo de expresiones regulares, lematización y un modelo simple de ML se construyó una BBDD que permita un análisis descriptivo sobre el mercado de analistas en Colombia (de las ofertas publicadas en computrabajo
@@ -89,9 +85,6 @@ Ejecutar en jupyter notebook.
 
 ![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image3.png)
 
-![EDA](images/image.png)
-
-![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image.png)
 
 
 
