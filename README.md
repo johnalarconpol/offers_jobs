@@ -91,16 +91,10 @@ Ejecutar en jupyter notebook.
 
 ![EDA](images/image3.png)
 
-![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image.png)
-![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image1.png)
-![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image2.png)
-![EDA](https://raw.githubusercontent.com/johnalarconpol/offers_jobs/main/images/image3.png)
+![EDA](images/image.png)
 
-![m](https://github.com/johnalarconpol/offers_jobs/blob/main/images/image.png)
+![EDA](images/image1.png)
 
+![EDA](images/image2.png)
 
-
-
-<img width="634" height="607" alt="image" src="https://github.com/user-attachments/assets/6345b239-259d-41d7-926a-4e3fdf0d7721" />
-
-
+![EDA](images/image3.png)
